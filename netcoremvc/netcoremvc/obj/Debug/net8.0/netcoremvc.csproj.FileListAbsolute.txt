@@ -28,3 +28,4 @@ D:\repos\newmvcapp\netcoremvc\netcoremvc\obj\Debug\net8.0\refint\netcoremvc.dll
 D:\repos\newmvcapp\netcoremvc\netcoremvc\obj\Debug\net8.0\netcoremvc.pdb
 D:\repos\newmvcapp\netcoremvc\netcoremvc\obj\Debug\net8.0\netcoremvc.genruntimeconfig.cache
 D:\repos\newmvcapp\netcoremvc\netcoremvc\obj\Debug\net8.0\ref\netcoremvc.dll
+D:\repos\newmvcapp\netcoremvc\netcoremvc\obj\Debug\net8.0\netcoremvc.sourcelink.json
